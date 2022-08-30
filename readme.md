@@ -1,4 +1,4 @@
-#HTML5 flappy bird
+# Flappy-Bird-Unblocked
 
 based on http://uralozden.com/flappy/
 
